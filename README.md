@@ -1,3 +1,5 @@
+A simple fork to add "arduino" to the featheresp32-s2 board.
+
 # Espressif 32: development platform for [PlatformIO](http://platformio.org)
 
 [![Build Status](https://github.com/platformio/platform-espressif32/workflows/Examples/badge.svg)](https://github.com/platformio/platform-espressif32/actions)
